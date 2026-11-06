@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /preview-versions/
+
+Host: https://germanhkregister.github.io/purple-star-chart
+Sitemap: https://germanhkregister.github.io/purple-star-chart/sitemap.xml

@@ -3,5 +3,5 @@ Allow: /
 Disallow: /api/
 Disallow: /preview-versions/
 
-Host: https://germanhkregister.github.io/purple-star-chart
-Sitemap: https://germanhkregister.github.io/purple-star-chart/sitemap.xml
+Host: http://localhost:3000
+Sitemap: http://localhost:3000/sitemap.xml

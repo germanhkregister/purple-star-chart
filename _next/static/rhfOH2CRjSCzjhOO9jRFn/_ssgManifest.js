@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fknowledge\u002F[star]\u002F[topic]","\u002Flibrary\u002F[book]","\u002Flibrary\u002F[book]\u002F[chapter]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

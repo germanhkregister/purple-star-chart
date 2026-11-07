@@ -1,2 +1,2 @@
 :HL["/purple-star-chart/_next/static/chunks/3snq94fkofard.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"GNrBkex0PdbA3MRAxYQ1T"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"b6FxDfSmJy4AuE_rmEGji"}
